@@ -301,3 +301,20 @@ and (max-width : 350px) {
 #workflow {
     width: 100%;
 }
+
+.main h1 {
+    font-size: 45px;
+  }
+  
+  .col-md-6 img {
+    width: 100%;
+    box-shadow: 5px 5px 10px;
+  }
+  
+  .col-md-6 p {
+    margin:  20px auto 20px auto;
+  }
+  
+  h2 {
+    margin-top: 50px;
+  }
