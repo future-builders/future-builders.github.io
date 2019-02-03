@@ -212,7 +212,7 @@ footer a {
     z-index: 99; /* Make sure it does not overlap */
     border: 1px solid white;; /* Remove borders */
     outline: none; /* Remove outline */
-    background-color: FF4500; /* Set a background color */
+    background-color: #FF4500; /* Set a background color */
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     border-radius: 10px; /* Rounded corners */
